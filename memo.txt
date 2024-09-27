@@ -1,0 +1,9 @@
+git config --global user.name "Kevin Liao"
+git config --global user.email "kevin.josn@gmial.com"
+git init
+git status 
+git add .
+git add *.java
+git commit - m "message"
+git log ,q
+git diff <id> -- <fileName>
